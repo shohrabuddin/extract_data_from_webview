@@ -29,6 +29,9 @@ I will extract some texts from www.wikipedia.org and show it in webview. Jsoup l
 
 ```java
 
+  //extract some data from wikipedia website
+  //Jsoup API is used extract the data
+
  private void extractDataFromURL() {
         try {
             Document doc = Jsoup.connect("http://en.wikipedia.org/").get();
