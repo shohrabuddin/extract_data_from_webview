@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewTest</string>
+    <string name="enter_url">Please enter a valid URL</string>
+    <string name="invalid_url">URL is invalid!</string>
+</resources>
